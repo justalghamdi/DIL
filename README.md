@@ -12,5 +12,5 @@
 
 ---------------------------------
 
-يمكنك التحميل من <a href="https://cdn.justalghamdi.xyz/DIL.exe">هنا</a> أو <a href="https://github.com/justalghamdi/DIL/releases/download/Release/DIL.exe">هنا</a>
+يمكنك التحميل من <a href="https://cdn.justalghamdi.xyz/devices_on_LAN.zip">هنا</a> أو <a href="https://github.com/justalghamdi/DIL/releases/download/Release/DIL.exe">هنا</a>
 
